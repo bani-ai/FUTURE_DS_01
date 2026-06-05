@@ -204,11 +204,10 @@ Bani priya
 
 🎓 B.Tech in Artificial Intelligence
 
-🏫 Student
-
---- Delhi skill and entrepreneurship university (DSEU)
+🏫 Delhi Skill and Entrepreneurship University (DSEU) 
 
 # ⭐ Acknowledgement
 
 This project was completed as part of the **Future Interns – Data Science & Analytics Internship Program**. 
+
 Special thanks to Future Interns for providing practical industry-oriented learning opportunities.
