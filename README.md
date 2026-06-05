@@ -4,46 +4,53 @@
 
 ### 🔹 Internship Task Information
 
-| Details            | Information                          |
-|--------------------|--------------------------------------|
-| Internship Track   | Data Science & Analytics             |
-| Task Number        | Task 1                               |
-| Task Name          | Business Sales Performance Analytics |
-| Repository Name    | FUTURE_DS_01                         |
-| Developed By       | Bani priya                              |
-| CIN ID             | FIT/MAY26/DS17907                    |
+| Details          | Information                          |
+| ---------------- | ------------------------------------ |
+| Internship Track | Data Science & Analytics             |
+| Task Number      | Task 1                               |
+| Task Name        | Business Sales Performance Analytics |
+| Repository Name  | FUTURE_DS_01                         |
+| Developed By     | Bani priya                           |
+| CIN ID           | FIT/MAY26/DS17907                    |
 
 ---
 
 # 🧾 Project Description
 
-This project analyzes **e-commerce business sales data** using Power BI to uncover meaningful insights and performance trends.  
+This project analyzes **e-commerce business sales data** using Power BI to uncover meaningful insights and performance trends.
+
 The dashboard provides a complete overview of sales performance through interactive visualizations, KPI metrics, and regional analysis.
 
-**Objectives:**
-- Identify revenue trends  
-- Understand customer purchasing behavior  
-- Highlight top-selling products  
-- Analyze high-performing regions  
-- Detect seasonal sales patterns  
+### Objectives
+
+* Identify revenue trends
+* Understand customer purchasing behavior
+* Highlight top-selling products
+* Analyze high-performing regions
+* Detect seasonal sales patterns
 
 ---
 
 # 🎯 Project Objectives
 
-✅ Analyze overall sales performance  
-✅ Identify top revenue-generating countries  
-✅ Discover best-selling products and categories  
-✅ Track customer distribution and purchasing trends  
-✅ Generate actionable business insights  
-✅ Create a professional and client-ready dashboard  
+✅ Analyze overall sales performance
+
+✅ Identify top revenue-generating countries
+
+✅ Discover best-selling products and categories
+
+✅ Track customer distribution and purchasing trends
+
+✅ Generate actionable business insights
+
+✅ Create a professional and client-ready dashboard
 
 ---
 
 # 🛠️ Tools & Technologies Used
 
 | Tool / Technology | Purpose                          |
-|-------------------|----------------------------------|
+| ----------------- | -------------------------------- |
 | Power BI          | Dashboard Design & Visualization |
 | Microsoft Excel   | Data Storage & Handling          |
 | Power Query       | Data Cleaning & Transformation   |
@@ -52,6 +59,8 @@ The dashboard provides a complete overview of sales performance through interact
 ---
 
 # 📂 Repository Structure
+
+```text
 FUTURE_DS_01/
 │
 ├── dashboard/
@@ -62,108 +71,145 @@ FUTURE_DS_01/
 │   └── data.xlsx
 │
 ├── insights/
-│   └── key_insights.md
+│   └── key_insights.md.txt
 │
 └── README.md
-📷 Dashboard Preview
-🖥️ E-Commerce Sales Performance Dashboard
+```
 
-<img width="1371" height="746" alt="dashboard" src="https://github.com/user-attachments/assets/378df81b-eedd-4a7e-8a63-25baa2418d62" />
+---
 
+# 📷 Dashboard Preview
 
-📈 Dashboard KPIs
-KPI	Value
-💰 Total Revenue	20.97M
-🛒 Total Orders	40K
-👥 Total Customers	6K
-📦 Products Sold	11M
+![Dashboard Preview](dashboard/dashboard.png)
 
+---
 
-📊 Dashboard Features
-🔹 Revenue Over Time
-Consistent growth from 2009–2011
+# 📈 Dashboard KPIs
 
-Seasonal peaks in Q4 (holiday shopping)
+| KPI                | Value  |
+| ------------------ | ------ |
+| 💰 Total Revenue   | 20.97M |
+| 🛒 Total Orders    | 40K    |
+| 👥 Total Customers | 6K     |
+| 📦 Products Sold   | 11M    |
 
-Revenue dips in Q1 (Jan–Feb)
+---
 
-🔹 Revenue by Country
-UK dominates with 8.2M+ revenue
+# 📊 Dashboard Features
 
-Germany & France are secondary markets
+### 🔹 Revenue Over Time
 
-🔹 Customers by Country
-UK contributes 90%+ of customer base
+* Consistent growth from 2009–2011
+* Seasonal peaks during Q4 (holiday shopping)
+* Revenue dips during Q1 (January–February)
 
-Highest repeat purchasing in UK
+### 🔹 Revenue by Country
 
-🔹 Products Sold
-WORLD WAR items: 54K+ units
+* UK dominates with 8.2M+ revenue
+* Germany and France are secondary markets
 
-JUMBO BAG series: 47K+ units
+### 🔹 Customers by Country
 
-Affordable products (£1–£3) drive bulk sales
+* UK contributes 90%+ of customer base
+* Highest repeat purchasing observed in the UK
 
-💡 Business Recommendations
-✅ Run Q4 holiday campaigns aggressively
-✅ Stock WORLD WAR & JUMBO BAG before November
-✅ Expand marketing to Germany & France
-✅ Introduce bundle offers on top products
-✅ Launch loyalty program for UK customers
-✅ Optimize pricing for £1–£3 range products
+### 🔹 Products Sold
 
-🧹 Data Cleaning & Transformation
-Removed duplicate records
+* WORLD WAR items: 54K+ units sold
+* JUMBO BAG series: 47K+ units sold
+* Affordable products (£1–£3) drive bulk sales
 
-Filtered cancelled invoices (prefix "C")
+---
 
-Removed null Customer IDs
+# 💡 Business Recommendations
 
-Filtered negative quantities
+✅ Run aggressive Q4 holiday campaigns
 
-Converted Invoice Date to proper format
+✅ Stock WORLD WAR & JUMBO BAG products before November
 
-Removed zero/negative unit prices
+✅ Expand marketing efforts in Germany and France
 
-📚 Skills Gained
+✅ Introduce bundle offers on top-selling products
+
+✅ Launch a loyalty program for UK customers
+
+✅ Optimize pricing for products in the £1–£3 range
+
+---
+
+# 🧹 Data Cleaning & Transformation
+
+* Removed duplicate records
+* Filtered cancelled invoices (prefix "C")
+* Removed null Customer IDs
+* Filtered negative quantities
+* Converted Invoice Date to proper format
+* Removed zero and negative unit prices
+
+---
+
+# 📚 Skills Gained
+
 ✅ Business Analytics
+
 ✅ KPI Analysis
+
 ✅ Dashboard Development
+
 ✅ Data Cleaning
+
 ✅ Power BI Visualization
+
 ✅ Insight Generation
+
 ✅ Data Transformation
+
 ✅ Business Reporting
 
-🚀 Project Outcome
-✔️ Delivered a professional interactive dashboard
-✔️ Generated actionable insights for business growth
-✔️ Supported data-driven decision-making
-✔️ Portfolio-ready project for internship evaluation
+---
 
-⚠️ Challenges Faced
-Handling inconsistent data
+# 🚀 Project Outcome
 
-Managing large datasets
+✔ Delivered a professional interactive dashboard
 
-Designing effective visualizations
+✔ Generated actionable insights for business growth
 
-Balancing dashboard aesthetics with clarity
+✔ Supported data-driven decision-making
 
-📌 Future Improvements
-Predictive sales forecasting
+✔ Created a portfolio-ready project for internship evaluation
 
-Customer segmentation analysis
+---
 
-AI-based recommendation systems
+# ⚠️ Challenges Faced
 
-Real-time dashboard integration
+* Handling inconsistent data
+* Managing large datasets
+* Designing effective visualizations
+* Balancing dashboard aesthetics with clarity
 
-👨‍💻 Author
+---
+
+# 📌 Future Improvements
+
+* Predictive sales forecasting
+* Customer segmentation analysis
+* AI-based recommendation systems
+* Real-time dashboard integration
+
+---
+
+# 👨‍💻 Author
+
 Bani priya
-🎓 B.Tech in Artificial Intelligence
-🏫 Student,
 
-⭐ Acknowledgement
-This project was completed as part of the Future Interns – Data Science & Analytics Internship Program.
-Special thanks to mentors and peers for guidance and support.
+🎓 B.Tech in Artificial Intelligence
+
+🏫 Student
+
+--- Delhi skill and entrepreneurship university (DSEU)
+
+# ⭐ Acknowledgement
+
+This project was completed as part of the **Future Interns – Data Science & Analytics Internship Program**.
+
+Special thanks to mentors and peers for their guidance and support.
