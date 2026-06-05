@@ -210,6 +210,5 @@ Bani priya
 
 # ⭐ Acknowledgement
 
-This project was completed as part of the **Future Interns – Data Science & Analytics Internship Program**.
-
-Special thanks to mentors and peers for their guidance and support.
+This project was completed as part of the **Future Interns – Data Science & Analytics Internship Program**. 
+Special thanks to Future Interns for providing practical industry-oriented learning opportunities.
